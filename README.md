@@ -17,7 +17,7 @@ Install using `pip`:
 
     pip install django-jquery-qtip
     
-Add to `jquery_ui` to your `INSTALLED_APPS` in `settings.py`:
+Add to `jquery_qtip` to your `INSTALLED_APPS` in `settings.py`:
 
     INSTALLED_APPS = (
         ...
