@@ -1,10 +1,9 @@
 django-jquery-qtip
 ==================
 
-![Version Badge](https://pypip.in/v/django-jquery-qtip/badge.png)  
-![Downloads Badge](https://pypip.in/d/django-jquery-qtip/badge.png)  
-![Wheel Status Badge](https://pypip.in/wheel/django-jquery-qtip/badge.png)  
-![License Badge](https://pypip.in/license/django-jquery-qtip/badge.png)  
+[![Version Badge](https://img.shields.io/pypi/v/django-jquery-qtip.svg)](https://pypi.python.org/pypi/django-jquery-qtip)
+[![Wheel Status Badge](https://img.shields.io/pypi/wheel/django-jquery-qtip.svg)](https://pypi.python.org/pypi/django-jquery-qtip)
+[![License Badge](https://img.shields.io/pypi/l/django-jquery-qtip.svg)](https://pypi.python.org/pypi/django-jquery-qtip)
 
 [jQuery qTip](http://qtip2.com) packaged in a django app to speed up new applications and deployment.
 
